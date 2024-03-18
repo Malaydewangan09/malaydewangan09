@@ -35,11 +35,6 @@
 
 
 
-
-<h4 align="center">Don't hesitate to check them out and contribute if you find something interesting! Let's build amazing things together. 🌟</h4>
-
-##
-
 <br clear="both">
 
 <div align="center">
