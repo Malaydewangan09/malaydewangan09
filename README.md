@@ -21,7 +21,7 @@
 <h1 align="center">Hey there, I am Malay Dewangan 👋</h1>
 
 
-<h4 align="center">I'm currently employed as a Software Engineer at WorldRef, where I'm engaged in creating innovative solutions while continuously exploring new backend technologies. My passion lies in leveraging technical expertise to solve complex problems and contribute positively to the tech community. </h4>
+<h4 align="center">I'm currently employed as a Software Engineer at WorldRef, where I'm engaged in creating innovative solutions while continuously exploring new backend technologies. Current I am exploring Golang and system architecture. </h4>
 
 ##
 <h3 align="center">🌟 While you're here, feel free to explore other repository wher I'm currently active in </h3>
