@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://www.linkedin.com/in/malay-dewangan-156b58186/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" alt="LinkedIn logo" />
@@ -75,3 +76,4 @@
 </div>
 
 ###
+[![An image of @malaydewangan09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/malaydewangan09)](https://holopin.io/@malaydewangan09)
