@@ -2,7 +2,7 @@
 
 <h4 align="center">Building stuff, learning things, and occasionally drinking too much coffee ☕</h4>
 
-<h4 align="center">Some of my last work on <a href="https://github.com/Malaydewangan18"> GitHub</a></h4>
+<h4 align="center">Some of my last contribs on <a href="https://github.com/Malaydewangan18"> Malaydewangan18</a></h4>
 
 ###
 
