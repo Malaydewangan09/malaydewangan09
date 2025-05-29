@@ -9,7 +9,7 @@
 
 <br/>
 <hr/>
-<h3 align="center">Some of my past contributions here <a href="https://github.com/Malaydewangan18">Malaydewangan18</a></h3>
+<h3 align="center">Some of my past contributions here at <a href="https://github.com/Malaydewangan18">Malaydewangan18</a></h3>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Malaydewangan18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub streaks" />
