@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm Malay 👋</h2>
+<h2 align="center">Hey, I'm Malay 👋.</h2>
 
 <h4 align="center">Building stuff and occasionally drinking too much coffee ☕</h4>
 
