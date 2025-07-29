@@ -1,6 +1,4 @@
 <h2 align="center">Hey, I'm Malay 👋</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Malaydewangan09&label=Profile%20views&color=0e75b6&style=flat" alt="Malaydewangan09" /> </p>
-
 
 <h4 align="center">Building stuff and occasionally drinking too much coffee ☕</h4>
 
