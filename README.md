@@ -12,7 +12,7 @@
 <h3 align="center">Some of my past contributions here at <a href="https://github.com/Malaydewangan18">Malaydewangan18</a></h3>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Malaydewangan18&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub streaks" />
+<img src="https://streak-stats.demolab.com?user=Malaydewangan18&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3&hide_current_streak=true" height="150" alt="GitHub streaks" />
 <img src="https://github-readme-stats.vercel.app/api?username=Malaydewangan18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="GitHub stats" />
 </div>
 
